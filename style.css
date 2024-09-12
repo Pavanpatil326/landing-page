@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-section img{
+   margin-left: 100px;
+   margin-bottom: -50px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 10px 200px;
+    padding: 0;
+    overflow: hidden;
+    letter-spacing: 2px;
+    
+  }
+
+ li{
+    float: inline-end;
+}
+
+ a {
+    
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font: bolder;
+}
+
+.btn{
+    border: 20px;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    letter-spacing: 4px;
+}
+
+.btn:hover{
+    background-color: plum;
+}
